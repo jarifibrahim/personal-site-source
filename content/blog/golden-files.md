@@ -1,7 +1,7 @@
 ---
 title: "Golden Files — Why you should use them"
 date: 2018-03-19T12:03:06+05:30
-tags: ["Golang","Golden Files", "Software Testing"]
+tags: ["Golang","Golden-Files", "Software-Testing"]
 slug: "Golden Files — Why you should use them"
 ---
 <style>

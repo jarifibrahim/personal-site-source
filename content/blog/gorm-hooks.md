@@ -1,7 +1,7 @@
 ---
 title: "Using GORM Hooks to Clean up Test Fixtures in Golang"
 date: 2019-01-27T18:05:06+05:30
-tags: ["Golang", "Go", "Gorm", "Software Testing"]
+tags: ["Golang", "Go", "Gorm", "Software-Testing"]
 slug: "test cleanup with gorm hooks"
 ---
 

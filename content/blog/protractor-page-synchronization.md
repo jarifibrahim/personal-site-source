@@ -1,7 +1,7 @@
 ---
 title: "The Curious Case of Protractor and Page Synchronization"
 date: 2018-08-07T18:05:06+05:30
-tags: ["Protractor Framework","Javascript", "UI Testing", "Async Await"]
+tags: ["Protractor", "Javascript", "Async-Await"]
 slug: "Protractor and Page Synchronization"
 ---
 
