@@ -1,6 +1,3 @@
-[submodule "themes/minimo"]
-	path = themes/minimo
-	url = https://github.com/MunifTanjim/minimo
 [submodule "public"]
 	path = public
 	url = https://github.com/jarifibrahim/jarifibrahim.github.io
