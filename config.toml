@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "jarifibrahim-github-io"
 googleAnalytics = "UA-78125113-2"
 
 Paginate = 5
@@ -67,7 +67,7 @@ linkedin = "jarifibrahim"
 twitter = "_iamibrahim"
 
 [params.comments]
-enable = false
+enable = true
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
