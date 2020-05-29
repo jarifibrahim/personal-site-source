@@ -57,9 +57,10 @@ above. That's how easy it is to expose your SSH server using tailscale.
 > `echo "<tailscaleIP> <machine_name>" >> /etc/hosts` and then you can do 
 > `ssh <username>@<machine_name>` .
 
-#SSH using ngrok
+# SSH using ngrok
 ngrok is similar to tailscale, but it requires a bit more setup. You can install ngrok by following 
-the instructions mentioned here. Once installed, you will have to start the local process that will 
+the [instructions mentioned here](https://medium.com/r/?url=https%3A%2F%2Fngrok.com%2Fdownload). 
+Once installed, you will have to start the local process that will 
 redirect the network traffic. Run the following command to expose port 22 (which is the default port 
 for SSH) once you have ngrok installed
 ```
